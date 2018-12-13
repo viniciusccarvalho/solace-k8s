@@ -1,0 +1,8 @@
+Host Boot ID: d26f6f69-3f15-4e31-96be-89796a69583f
+Starting VMR Docker Container: Thu Dec 13 13:04:04 UTC 2018
+SolOS Version: soltr_8.13.1.17
+INFO repairDatabase.py: processing database (currDbPath: /usr/sw/var/soltr_8.13.1.17/.dbHistory/db.00000000, nextDbPath: /usr/sw/var/soltr_8.13.1.17/.dbHistory/db.00000003)
+INFO Processing baseline /usr/sw/var/soltr_8.13.1.17/.dbHistory/db.00000000/dbBaseline
+WARN Baseline /usr/sw/var/soltr_8.13.1.17/.dbHistory/db.00000000/dbBaseline: does not exist
+WARN Database /usr/sw/var/soltr_8.13.1.17/.dbHistory/db.00000000: backing up database to jail/configs/db.corrupt.db.00000000.1544706318
+Failed to repair database, exiting (rc = 1)
